@@ -9,17 +9,18 @@ https://docs.google.com/document/d/1KaApjflNS7NRHaEGEZGmotNzi27TqshKtoCn12L6I0g/
 > https://github.com/maggienj/Prince_housing/blob/master/nj-housing-incomelimits.pdf <br> 
 
 ** June 9 - 2016 ** 
-Transformation of lookup data.  From PDF to CSV to JSON - Done!
+Transformation of lookup data.  From PDF to CSV to JSON - Done! <br>
 
-Use this latest uploaded JSON file. (lkpDataV3.json)
--- A section of the pdf file was transformed to CSV. 
--- Then, the csv file has ben transformed to JSON file.
--- In addition, the JSON file has been modified slightly to remove $ and commas.
--- This JSON file contains data relevant to Region-4 Mercer, Monmouth and Ocean. This is the only region which is applicable to affordable housing project. Therefore, only this region is inlcuded in JSON file.
+Use this latest uploaded JSON file. (lkpDataV3.json) <br>
+-- A section of the pdf file was transformed to CSV. <br>
+-- Then, the csv file has ben transformed to JSON file. <br>
+-- In addition, the JSON file has been modified slightly to remove $ and commas. <br>
+-- This JSON file contains data relevant to Region-4 Mercer, Monmouth and Ocean. This is the only region which is applicable to affordable housing project. Therefore, only this region is inlcuded in JSON file. <br>
 
-Link to the latest JSON file-- https://github.com/maggienj/Prince_housing/blob/master/lkpDataV3.json 
+Link to the latest JSON file-- https://github.com/maggienj/Prince_housing/blob/master/lkpDataV3.json  <br>
 
-Converter Used : http://codebeautify.org/csv-to-xml-json
+Converter Used : http://codebeautify.org/csv-to-xml-json <br>
+
 
 
 
