@@ -14,7 +14,7 @@ Transformation of lookup data.  From PDF to CSV to JSON - Done!
 Use this latest uploaded JSON file.
 The lkpData.csv file has ben converted to JSON file.
 In addition, the JSON file has been modified slightly to remove $ and commas.
-This JSON file contains data relevant to Region-4 Mercer, Monmouth and Ocean. This is the only region which are applicable to affordable housing project. Therefore, only this region is inlcuded in JSON file.
+This JSON file contains data relevant to Region-4 Mercer, Monmouth and Ocean. This is the only region which is applicable to affordable housing project. Therefore, only this region is inlcuded in JSON file.
 
 https://github.com/maggienj/Prince_housing/blob/master/lkpDataV3.json
 
