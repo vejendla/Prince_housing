@@ -9,6 +9,8 @@ https://docs.google.com/document/d/1KaApjflNS7NRHaEGEZGmotNzi27TqshKtoCn12L6I0g/
 > https://github.com/maggienj/Prince_housing/blob/master/nj-housing-incomelimits.pdf <br> 
 
 ** June 9 - 2016 ** 
+Transformation of lookup data.  From PDF to CSV to JSON - Done!
+
 Use this latest uploaded JSON file.
 The lkpData.csv file has ben converted to JSON file.
 In addition, the JSON file has been modified slightly to remove $ and commas.
