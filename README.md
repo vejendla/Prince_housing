@@ -21,6 +21,7 @@ Link to the latest JSON file-- https://github.com/maggienj/Prince_housing/blob/m
 
 Converter Used : http://codebeautify.org/csv-to-xml-json <br><br>
 
+For the upcoming hackathon June 10 , 2016 <br>
 -- Notes by MaggieNJ -- Jun 10 , 2016 --- <br>
 ** the below link contains a nodejs web app which uses the above json file. <br>
 https://github.com/maggienj/Megan <br> 
@@ -30,6 +31,9 @@ The next step is to move that section of code to "qualify" page and set that as 
 
 ** Next set of tasks are listed here. Keep updating the status as you complete each one of these tasks.
 <br>
+* If multiple people working on this , then, distribute these steps to individuals for faster completion. <br>
+* If not mulitples (solo),  then execute these steps in the same order... The last step is to beautify it. 
+* Fork this repository to your github repo and start working on each and every step<br>
 -- Task#1 -- Move the section of code related to lodash and lookup data json parsing to "qualify" page.
 <br>
 ------ Status -- 
@@ -53,6 +57,15 @@ The next step is to move that section of code to "qualify" page and set that as 
 -- 
 --
 -- Task#99 -- Beautify the layout with bootsrap. Bootstrap css, js and fonts have been downloaded and placed in css, js and fonts directory. Use the Jumbotron wide template for responsive websites. The meta tag has been added to make it as a responsive website to show legibly in all devices. Continue on this and build this as a responsive website.. 
+
+
+For the upcoming hackathon June 10 , 2016 <br>
+----------------------------------------- <br>
+We need members to complete the above steps <br>
+We need members to prepare a ppt to explain about Aff Housing <br>
+We need members to present this ppt and the website on Sunday. <br> 
+
+If you would like to take part in this AffHousing project, then let me know which task you would like to contribute on.
 
 
 
