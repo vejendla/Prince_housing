@@ -28,7 +28,7 @@ It uses lodash to filter and query the above lookup data json file. The code for
 The next step is to move that section of code to "qualify" page and set that as an action for submit button with few more modifications
 <br>
 
--- Next set of tasks are listed here ---  Keep udating the status as you complete each one of these tasks.
+** Next set of tasks are listed here. Keep updating the status as you complete each one of these tasks.
 <br>
 -- Task#1 -- Move the section of code related to lodash and lookup data json parsing to "qualify" page.
 <br>
@@ -52,10 +52,6 @@ The next step is to move that section of code to "qualify" page and set that as 
 <br> <br>
 -- 
 --
---
--- 
--- 
--- 
 -- Task#99 -- Beautify the layout with bootsrap. Bootstrap css, js and fonts have been downloaded and placed in css, js and fonts directory. Use the Jumbotron wide template for responsive websites. The meta tag has been added to make it as a responsive website to show legibly in all devices. Continue on this and build this as a responsive website.. 
 
 
