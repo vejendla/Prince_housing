@@ -21,6 +21,13 @@ Link to the latest JSON file-- https://github.com/maggienj/Prince_housing/blob/m
 
 Converter Used : http://codebeautify.org/csv-to-xml-json <br>
 
+-- Notes by MaggieNJ -- Jun 10 , 2016 ---
+** the below link contains a nodejs web app which uses the above json file. <br>
+https://github.com/maggienj/Megan <br> 
+It uses lodash to filter and query the above lookup data json file. The code for it is in app.js <br>
+The next step is to move that section of code to "qualify" page and set that as an action for submit button with few more modifications
+
+
 
 
 
