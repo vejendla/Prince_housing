@@ -30,7 +30,7 @@ The next step is to move that section of code to "qualify" page and set that as 
 
 -- Next set of tasks are listed here ---  Keep udating the status as you complete each one of these tasks.
 <br>
--- Task#1 -- Move the section of code related to lodash and lookup data json parsing to "qualify" page.  
+-- Task#1 -- Move the section of code related to lodash and lookup data json parsing to "qualify" page.
 <br>
 ------ Status -- 
 <br> <br>
