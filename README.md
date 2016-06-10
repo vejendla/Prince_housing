@@ -26,6 +26,37 @@ Converter Used : http://codebeautify.org/csv-to-xml-json <br><br>
 https://github.com/maggienj/Megan <br> 
 It uses lodash to filter and query the above lookup data json file. The code for it is in app.js <br>
 The next step is to move that section of code to "qualify" page and set that as an action for submit button with few more modifications
+<br>
+
+-- Next set of tasks are listed here ---  Keep udating the status as you complete each one of these tasks.
+<br>
+-- Task#1 -- Move the section of code related to lodash and lookup data json parsing to "qualify" page.  
+<br>
+------ Status -- 
+<br> <br>
+-- Task#2 -- Get the submit button working in "qualify" page.
+<br>
+------ Status -- 
+<br><br>
+-- Task#3 -- Instead of Zip code, add the county name in a pul down list.  List only Mercer , Monmouth and Ocean county names. 
+<br>
+------ Status -- 
+<br> <br>
+-- Task#4 -- Add "Type" as an input field to "qualify page".  Use drop down list.  Values for the drop down list are, Median, Moderate, Low and Very Low.  ( Currently, I have hard coded "Moderate"  in app.js , remove this hard coding and accept it from the user directly)
+<br> 
+------ Status --
+<br> <br>
+-- Task#5 -- Once the submit button in "qualify page" is clicked, it should lookup the json file and output the result as "You are eligible for Affordable Housing in Princeton" or ....... 
+<br>
+------ Status --
+<br> <br>
+-- 
+--
+--
+-- 
+-- 
+-- 
+-- Task#99 -- Beautify the layout with bootsrap. Bootstrap css, js and fonts have been downloaded and placed in css, js and fonts directory. Use the Jumbotron wide template for responsive websites. The meta tag has been added to make it as a responsive website to show legibly in all devices. Continue on this and build this as a responsive website.. 
 
 
 
