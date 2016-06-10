@@ -19,9 +19,9 @@ Use this latest uploaded JSON file. (lkpDataV3.json) <br>
 
 Link to the latest JSON file-- https://github.com/maggienj/Prince_housing/blob/master/lkpDataV3.json  <br>
 
-Converter Used : http://codebeautify.org/csv-to-xml-json <br>
+Converter Used : http://codebeautify.org/csv-to-xml-json <br><br>
 
--- Notes by MaggieNJ -- Jun 10 , 2016 ---
+-- Notes by MaggieNJ -- Jun 10 , 2016 --- <br>
 ** the below link contains a nodejs web app which uses the above json file. <br>
 https://github.com/maggienj/Megan <br> 
 It uses lodash to filter and query the above lookup data json file. The code for it is in app.js <br>
