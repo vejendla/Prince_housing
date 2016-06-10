@@ -1,3 +1,19 @@
+
+** <h1> Fork this Prince_housing repository and the Megan Repository to start building on top of it <br> <h1>
+-- Megan rep --https://github.com/maggienj/Megan <br> 
+
+To run prince_housing app follow these steps: <br>  First of all fork it.... <br>
+To run the app locally: <br> 
+0. Make sure"npm install -g" inside /Prince_housing <br>
+1. make sure you have node.js installed <br>
+2. install 'express' by running "npm install express -g" inside /Prince_housing. <br>
+2. navigate to /Prince_housing in the terminal <br>
+3. run: node app.js <br>
+4. open chrome to localhost:8080 <br> 
+5. Now you should be able to view the initial desgin of the app. <br>
+6. If you get any errs then, ensure you have express installed as part of the node modules. <br>
+
+<br>
 ** Affordable Housing Project **
 > -- using the code for America template <br> 
 https://docs.google.com/document/d/1KaApjflNS7NRHaEGEZGmotNzi27TqshKtoCn12L6I0g/edit?usp=sharing
